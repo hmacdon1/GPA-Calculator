@@ -13,7 +13,7 @@ The program will initialize by asking the user if they would like to add their c
 
 If yes, they will add their total earned credit hours and GPA. Then, they will enter what their current semester classes are, credit hours for each class, and expected grade.
 
-If no, the user will move on to entering what their current semester classes are, credit hours for each class, and expected grade.
+If no, the user will enter what their current semester classes are, credit hours for each class, and expected grade.
 
 The user will then get a display of what the semester GPA is and the expected overall GPA. The system will give them an option to export to excel which if chosen, will export one of two
 excel sheets depending on whether or not they provided their current GPA.
